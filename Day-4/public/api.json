@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Chicken Biryani",
+        "type": ["Lunch", "Dinner"],
+        "imgUrl": "https://shorturl.at/J3m6C",
+        "desc": "A flavorful South Indian dish made with aromatic spices, basmati rice, and marinated chicken."
+    },
+    {
+        "name": "Masala Dosa",
+        "type": ["Breakfast", "Lunch"],
+        "imgUrl": "https://shorturl.at/J3m6C",
+        "desc": "A crispy fermented crepe filled with spiced potatoes, onions, and chutneys."
+    },
+    {
+        "name": "Palak Paneer",
+        "type": ["Lunch", "Dinner"],
+        "imgUrl": "https://shorturl.at/J3m6C",
+        "desc": "A creamy spinach curry made with paneer (Indian cheese), spinach puree, and spices."
+    },
+    {
+        "name": "Idli",
+        "type": ["Breakfast"],
+        "imgUrl": "https://shorturl.at/J3m6C",
+        "desc": "Steamed rice cakes made from fermented batter, often served with sambar and chutney."
+    },
+    {
+        "name": "Tandoori Chicken",
+        "type": ["Lunch", "Dinner"],
+        "imgUrl": "https://shorturl.at/J3m6C",
+        "desc": "Marinated chicken cooked in a clay oven (tandoor) with yogurt and spices."
+    },
+    {
+        "name": "Samosas",
+        "type": ["Snack"],
+        "imgUrl": "https://shorturl.at/J3m6C",
+        "desc": "Crunchy fried or baked pastries filled with spiced potatoes, peas, and onions."
+    },
+    {
+        "name": "Rajma Masala",
+        "type": ["Lunch", "Dinner"],
+        "imgUrl": "https://shorturl.at/J3m6C",
+        "desc": "A spicy kidney bean curry made with onions, garlic, ginger, and tomatoes."
+    },
+    {
+        "name": "Lassi",
+        "type": ["Beverage"],
+        "imgUrl": "https://shorturl.at/J3m6C",
+        "desc": "A yogurt-based drink blended with spices, milk, and sugar."
+    },
+    {
+        "name": "Mattar Paneer",
+        "type": ["Lunch", "Dinner"],
+        "imgUrl": "https://shorturl.at/J3m6C",
+        "desc": "A creamy pea and paneer curry made with onions, garlic, and spices."
+    },
+    {
+        "name": "Gulab Jamun",
+        "type": ["Dessert"],
+        "imgUrl": "https://shorturl.at/J3m6C",
+        "desc": "Deep-fried dumplings soaked in a sweet rose syrup and cardamom."
+    }
+]
